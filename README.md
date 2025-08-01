@@ -34,7 +34,7 @@ Install the following Python modules before running the code:
 
 Real-time purple object detection using webcam:
 
-![Hasil Tracking Warna Ungu](Hasil-HSV.png)
+![Hasil Tracking Warna Ungu](Hasil-hsv.png)
 
 ---
 
